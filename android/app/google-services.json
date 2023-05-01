@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "812299628522",
+    "project_id": "ejemplo2023i-af81b",
+    "storage_bucket": "ejemplo2023i-af81b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812299628522:android:be504c11b1915d556b8c93",
+        "android_client_info": {
+          "package_name": "com.edson.ejemplo2023i"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812299628522-4trtom4s25rr96bgut78haf006st3ant.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDomxAeHGb82Scac_eK_7itb5bukXVsIcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812299628522-4trtom4s25rr96bgut78haf006st3ant.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
